@@ -8,6 +8,6 @@ public class App
 {
     public static void main( String[] args )
     {
-        System.out.println( "github hook trigger..change ");
+        System.out.println( "github hook trigger..new change ");
     }
 }
